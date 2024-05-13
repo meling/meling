@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [quickfeed](https://github.com/quickfeed/quickfeed), [hotstuff](https://github.com/relab/hotstuff), [gorums](https://github.com/relab/gorums), [bbhash](https://github.com/relab/bbhash) and more.
+- 🌱 I’m currently learning whatever I think is cool and intersting; Rust is on my list when I get time.
+- 💬 Open to work ... mainly backend Go programming and techlead, but anything fun is interesting.
+
 <!--
 **meling/meling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
